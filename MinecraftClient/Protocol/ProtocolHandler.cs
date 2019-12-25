@@ -215,7 +215,7 @@ namespace MinecraftClient.Protocol
                     case "1.15.0":
                         return 573;
                     case "1.15.1":
-                        return 575
+                        return 575;
                     default:
                         return 0;
                 }
